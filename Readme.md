@@ -6,7 +6,7 @@
 # 🧑‍💻 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joeAphiwat&theme=radical&hide_border=false)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical3)
 
 
 ## 🌐 Socials:
