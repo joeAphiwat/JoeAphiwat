@@ -1,5 +1,5 @@
 
-![Aphiwat GitHub stats](https://github-readme-stats.vercel.app/api?username=joeAphiwat&show_icons=true&theme=radical&show=show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joeAphiwat&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joeAphiwat/github-readme-stats#gh-dark-mode-only)
 
 <!--
 
