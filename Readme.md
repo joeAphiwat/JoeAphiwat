@@ -14,6 +14,6 @@
   
  
  
- 
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=JoeAphiwat&theme=dark)](https://git.io/streak-stats)
  
  
