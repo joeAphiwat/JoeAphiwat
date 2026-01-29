@@ -5,6 +5,7 @@
 # 🧑‍💻 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=joeAphiwat&theme=radical&hide_border=false)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeAphiwat&show_icons=true&theme=transparent)
    
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aphiwat-singlo-004845207/) 
